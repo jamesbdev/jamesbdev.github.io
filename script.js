@@ -14,14 +14,8 @@ const modalData = [{
     img: 'assets/images/unit-7-project.png',
     link_text: 'View project',
     link_url: 'https://jamesbdev.github.io/tech-degree-unit-7/'
-} , {
-    title: 'Game Show App',
-    description: 'I used JavaScript to create a game where the user guesses letters. The game ends with the user guessing the whole phrase or if the user misses 5 times. It stores data for 6 phrases and display them randomly. The code checks if the letter selected by the user matches letters in the phrase. If it does the letters are displayed on the screen.',
-    skills: 'HTML, CSS, JavaScript',
-    img: 'assets/images/unit-6-project.png',
-    link_text: 'View project',
-    link_url: 'https://jamesbdev.github.io/tech-degree-unit-6/'
-}, {
+}, 
+{
     title: 'Interactive Photo Gallery',
     description: ' A photo gallery built using CSS grids to display the images. I used a JavaScript plug in to display a modal when the user clicks on the images. The modal contains the image in full size with a description. I also implemented a searching functionality. It uses JavaScript to match the value of the input with the images descriptions.',
     skills: 'HTML, CSS, JavaScript',
