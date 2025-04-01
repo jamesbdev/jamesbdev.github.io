@@ -158,6 +158,7 @@ footer a {
     top: 0;
     right: 1rem;
     font-size: 2rem;
+    cursor: pointer;
 }
 
 .skills-container {
@@ -209,11 +210,11 @@ footer a {
 }
 
 .scss {
-    width: 40%;
+    width: 50%;
 }
 
 .react {
-    width: 40%;
+    width: 30%;
 }
 
 .vue {
